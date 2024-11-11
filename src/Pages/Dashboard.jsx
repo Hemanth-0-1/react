@@ -11,7 +11,7 @@ import Slicefr from '../Slice/Slicefr';
 
 function Dashboard() {
   return (
-   <div className='container-fluid'>
+   
     <div className='Dashboard'>
       <Row>
       <Col sm={2}>
@@ -27,7 +27,7 @@ function Dashboard() {
       </Col>
       </Row>
       </div>
-      </div>
+      
   )
 }
 
